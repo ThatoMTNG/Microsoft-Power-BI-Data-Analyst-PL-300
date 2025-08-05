@@ -28,7 +28,7 @@ This series includes 5 in-depth modules designed to guide data professionals thr
 ## 👤 Author
 
 **Thato Metsing**  
-_Data Analyst, Fabric Analytics Engineer & Business Analyst_  
+_Data Analyst & Fabric Analytics Engineer_  
 🔗 [LinkedIn](https://www.linkedin.com/in/thatometsing)
 
 ## 👤 Mentor
